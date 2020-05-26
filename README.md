@@ -5,3 +5,6 @@
 - pictures are changing every 2 seconds
 - once it reaches the end of the collection, starts from the beginning
 - build with jQuery
+
+
+- images source: [unsplash](https://unsplash.com/)
